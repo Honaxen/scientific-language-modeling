@@ -56,9 +56,21 @@ Python · sentence-transformers · FAISS · PyPDF2 · spaCy · pandas · matplot
 
 ---
 
-## What I Learned
+## What I Learned## What I Learned
 
-TBD — will be updated after all notebooks are complete.
+Scientific text is not just text — it has structure.
+Section-aware ingestion captures abstract, methods, and results separately.
+This changes what questions you can answer from a paper.
+
+Rule-based NER is surprisingly effective for domain-specific vocabulary.
+"Transformer", "BLEU", "WMT" appear in predictable patterns — no training needed.
+
+PageRank reveals influence better than citation count.
+A paper cited by foundational papers scores higher than one with more raw citations.
+This is how academic impact actually works.
+
+The same tools that power general NLP — embeddings, FAISS, pattern matching —
+work on scientific text with domain-specific customization.
 
 ---
 
