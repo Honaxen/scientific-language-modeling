@@ -56,7 +56,7 @@ Python · sentence-transformers · FAISS · PyPDF2 · spaCy · pandas · matplot
 
 ---
 
-## What I Learned## What I Learned
+## What I Learned
 
 Scientific text is not just text — it has structure.
 Section-aware ingestion captures abstract, methods, and results separately.
